@@ -1,2 +1,2 @@
 # delta-repo
-info about git and github
+info about git and github.
